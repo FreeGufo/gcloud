@@ -1,2 +1,3 @@
 # gcloud
-gcloud sdkで、goapp, appcfg.pyを実行できるように設定
+gcloud sdkをベースに、goapp, appcfg.pyを実行できるように設定
+
